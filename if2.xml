@@ -75,6 +75,11 @@
                 <field name="NUM">200</field>
               </block>
             </value>
+            <next>
+              <block type="oled_drawtext" id="50">
+                <field name="TEXT">hellloooooo</field>
+              </block>
+            </next>
           </block>
         </next>
       </block>
