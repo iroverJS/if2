@@ -76,7 +76,7 @@
               </block>
             </value>
             <next>
-              <block type="oled_drawtext" id="50">
+              <block type="oled_drawtext" id="19">
                 <field name="TEXT">hellloooooo</field>
               </block>
             </next>
@@ -85,7 +85,7 @@
       </block>
     </statement>
     <next>
-      <block type="movement_stop" id="19"></block>
+      <block type="movement_stop" id="20"></block>
     </next>
   </block>
 </xml>
